@@ -51,8 +51,8 @@ class MusicLibraryController
       play_song
     when "exit"
       exit
-    else
-      call
+    # else
+    #   call
     end
     # if options.include?(user_input)
     #   user_input = user_input.gsub(" ","_")
