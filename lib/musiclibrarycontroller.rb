@@ -52,7 +52,7 @@ class MusicLibraryController
     when "exit"
       exit
     else
-      self.call
+      call
     end
     # if options.include?(user_input)
     #   user_input = user_input.gsub(" ","_")
